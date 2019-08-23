@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Shukaku",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-86df97dc1071aaebdf005a38649e3f4b",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Matatabi",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-dae22dd5f3ce1dd34d2644f5d5cdfe39",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Isobu",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-42b705996d954f3eed0c71176c072f77",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Son Goku",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-1fb5407f7f6d7bba48cc915085e1e767",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Kokuo",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-9a189ff07307c0eb5d35dea07140ce88",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Saiken",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-d966d840eaec80af4697f8ea4a7b1e90",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Chomei",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-9d1aab75099357f73b46eae7363090ca",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Gyuuki",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-d56a4b4ea405a5aadfa118bb2a161849",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Kurama",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-6071e0b8cd0b61cbc65f165ccc347034",
+    "clicked": false
+  }
+
+]

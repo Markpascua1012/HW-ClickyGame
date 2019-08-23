@@ -1,0 +1,11 @@
+.wrapper {
+  padding-top: 50px;
+  background-image: url(https://vignette.wikia.nocookie.net/narutoprofile/images/5/50/Wiki-background/revision/latest?cb=20170914035812);
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
